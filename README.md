@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I'm historian trying to learn data science and how to apply it for my field.
